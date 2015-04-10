@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>activitygraph</id>
+    <name>Activity Graph</name>
+    <description>Activity Graph V2</description>
+    <licence>AGPL</licence>
+    <author>iMalinoski</author>
+    <version>0.0.1</version>
+    <requiremin>7</requiremin>
+</info>
